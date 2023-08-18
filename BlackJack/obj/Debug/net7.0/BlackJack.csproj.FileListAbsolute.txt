@@ -1,0 +1,15 @@
+C:\Users\FSampaio\source\repos\BlackJack\BlackJack\bin\Debug\net7.0\BlackJack.exe
+C:\Users\FSampaio\source\repos\BlackJack\BlackJack\bin\Debug\net7.0\BlackJack.deps.json
+C:\Users\FSampaio\source\repos\BlackJack\BlackJack\bin\Debug\net7.0\BlackJack.runtimeconfig.json
+C:\Users\FSampaio\source\repos\BlackJack\BlackJack\bin\Debug\net7.0\BlackJack.dll
+C:\Users\FSampaio\source\repos\BlackJack\BlackJack\bin\Debug\net7.0\BlackJack.pdb
+C:\Users\FSampaio\source\repos\BlackJack\BlackJack\obj\Debug\net7.0\BlackJack.csproj.AssemblyReference.cache
+C:\Users\FSampaio\source\repos\BlackJack\BlackJack\obj\Debug\net7.0\BlackJack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FSampaio\source\repos\BlackJack\BlackJack\obj\Debug\net7.0\BlackJack.AssemblyInfoInputs.cache
+C:\Users\FSampaio\source\repos\BlackJack\BlackJack\obj\Debug\net7.0\BlackJack.AssemblyInfo.cs
+C:\Users\FSampaio\source\repos\BlackJack\BlackJack\obj\Debug\net7.0\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\FSampaio\source\repos\BlackJack\BlackJack\obj\Debug\net7.0\BlackJack.dll
+C:\Users\FSampaio\source\repos\BlackJack\BlackJack\obj\Debug\net7.0\refint\BlackJack.dll
+C:\Users\FSampaio\source\repos\BlackJack\BlackJack\obj\Debug\net7.0\BlackJack.pdb
+C:\Users\FSampaio\source\repos\BlackJack\BlackJack\obj\Debug\net7.0\BlackJack.genruntimeconfig.cache
+C:\Users\FSampaio\source\repos\BlackJack\BlackJack\obj\Debug\net7.0\ref\BlackJack.dll
